@@ -1,5 +1,3 @@
-// File: ./models/productSchema.js
-
 import mongoose from "mongoose";
 
 const productSchema = mongoose.Schema({

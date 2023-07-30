@@ -1,5 +1,3 @@
-// File: ./controllers/userController.js
-
 import User from "../models/userSchema.js";
 import bcrypt from "bcrypt";
 

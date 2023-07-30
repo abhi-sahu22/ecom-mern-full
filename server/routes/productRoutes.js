@@ -1,5 +1,3 @@
-// File: ./routes/productRoutes.js
-
 import express from "express";
 import { uploadProduct, getProducts } from "../controllers/productController.js";
 

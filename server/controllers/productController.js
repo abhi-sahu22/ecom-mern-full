@@ -1,5 +1,3 @@
-// File: ./controllers/productController.js
-
 import Product from "../models/productSchema.js";
 
 // Controller function to save product data
